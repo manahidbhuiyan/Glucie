@@ -3,7 +3,7 @@
 <section class="my-16 lg:my-44 p-5 lg:p-2">
             <h2 class="text-3xl lg:text-5xl text-center font-semibold mb-20 md:px-12">Your Body Will Thank You</h2>
             <div data-aos="zoom-in" data-aos-duration="2000" class="lg:hidden flex justify-center items-center mb-8 lg:mb-0">
-                <img src=".../assets/images/images/device.png" alt="">
+                <img src="../assets/images/device.png" alt="">
             </div>
             <div class="flex gap-5 lg:gap-32 flex-row lg:justify-between lg:items-center">
                 <div class="flex-1">
