@@ -1,5 +1,5 @@
 <script setup>
-import { RouterLink, RouterView } from 'vue-router'
+
 import Header from './components/Header.vue'
 import GlucieWork from './components/GlucieWork.vue'
 import Pricing from './components/Pricing.vue'
@@ -28,8 +28,6 @@ import Testimonial from './components/Testimonial.vue'
     <faqs />
   </main>
   <Footer></Footer>
-
-  <RouterView />
 </template>
 
 <style scoped>
